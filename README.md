@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marina Shinkevich
 =========================================================================================================================================
 
-* 🌍  I'm based in Belaruse
+* 🌍  I'm based in Belarus
 * ✉️  You can contact me at [mmmarina.shinkevich@gmail.com](mailto:mmmarina.shinkevich@gmail.com)
 
 ### Skills
